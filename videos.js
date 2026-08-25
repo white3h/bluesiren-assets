@@ -1,6 +1,6 @@
 const bsVideos = [
   { id: "UaiHlrFIAqM", year: "2026", title: "폭염도 무섭지 않아! 가플지우 07월 포항 정화활동" },
-  { id: "AWueCEEA2aw", year: "2026", title: "\"엄마 집에 안갈래!\" 이마트 투모로우 어린이 환경 축제-내일을 만드는 오늘" },
+  { id: "AWueCEEA2aw", year: "2026", title: "\'엄마 집에 안갈래!\' 이마트 투모로우 어린이 환경 축제-내일을 만드는 오늘" },
   { id: "LWMYh13gcSg", year: "2026", title: "2026 가플지우 이달의바다 04월 인천삼목항" },
   { id: "vCnjI6-VkAo", year: "2025", title: "2025 SEA너지 어린이 해양문화예술제" },
   { id: "XGAeVdOKykc", year: "2024", title: "2024 경남사천바다 수중 폐어구 수거작전" },
